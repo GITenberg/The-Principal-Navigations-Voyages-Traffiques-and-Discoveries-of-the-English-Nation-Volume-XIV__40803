@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2022'
     url: http://www.gutenberg.org/2009/agents/2022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40803#The-Principal-Navigations-Voyages-Traffiques-and-Discoveries-of-the-English-Nation-Volume-XIV_
 gutenberg_issued: '2012-09-19'
 gutenberg_type: Text
 identifiers:
